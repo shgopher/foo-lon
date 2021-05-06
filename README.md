@@ -59,7 +59,7 @@ Here is a book: Getting started with distributed systems from scratch;
 
 ![p](./wechat.jpg)
 
-- b站@[科科人神](https://space.bilibili.com/4786210880)
+- b站@[科科人神](https://space.bilibili.com/478621088)
 
 ### 作者的计算机知识项目
 - [foolon](https://github.com/shgopher/foolon) : 从零开始学习分布式系统
