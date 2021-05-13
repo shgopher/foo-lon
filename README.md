@@ -50,7 +50,7 @@ Here is a book: Getting started with distributed systems from scratch;
 - 从零搞定一个分布式检索技术
 ### 分布式Q&A
 - TCP拥塞管理对拜占庭算法(PBET)的影响
-### 关注我
+## 关注我
 
 - 头条@[科科人神](https://www.toutiao.com/c/user/token/MS4wLjABAAAAIGeO1-kCUelF-G8GW3AvJlrEL7tiO24WHJmnX4nV1bs/)
 
@@ -62,7 +62,7 @@ Here is a book: Getting started with distributed systems from scratch;
 
 - b站@[科科人神](https://space.bilibili.com/478621088)
 
-### 作者的计算机知识项目
+## 作者的计算机知识项目
 - [foolon](https://github.com/shgopher/foolon) : 从零开始学习分布式系统
 - [GOFamily](https://github.com/shgopher/GOFamily) :go语言从入门到熟练掌握 
 - [408Family](https://github.com/shgopher/408Family) : 算法和数据结构,设计模式，正则表达式，网络，操作系统，计算机组成原理
