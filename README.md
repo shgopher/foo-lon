@@ -72,4 +72,4 @@ Here is a book: Getting started with distributed systems from scratch;
 - [up](https://github.com/shgopher/up) : 从初级程序员向高级程序员迈进 --- 系统调优公开课
 - [repairman](https://github.com/shgopher/repairman) :程序员的必修课 --- 线上紧急故障排除
 - [Refactor](https://github.com/shgopher/refactor) : 高级软件工程师的必修课 -- 如何进行代码重构
-- [coder](https://github.com/shgopher/refactor) : 关注程序员的职业发展，会分享比如如何升迁，如何面试，如何赚钱等知识。
+- [coder](https://github.com/shgopher/coder) : 关注程序员的职业发展，会分享比如如何升迁，如何面试，如何赚钱等知识。
