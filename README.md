@@ -20,7 +20,7 @@ Here is a book: Getting started with distributed systems from scratch;
 - pbet协议
 - zookeeper中的协议
 - 一致性哈希在分布式中的应用
-### 分布式在实际项目中的应用
+### 分布式具体分类
 - 分布式计算
 - 分布式储存
 - 分布式通信
@@ -30,7 +30,7 @@ Here is a book: Getting started with distributed systems from scratch;
 - 分布式追踪
 - 高可用的分布式
 - 分布式部署
-### 分布式实际项目以及分布式需要用到的知识
+### 分布式实际项目
 - rpc协议以及实际项目
 - mq消息队列
 - kafka
@@ -48,7 +48,8 @@ Here is a book: Getting started with distributed systems from scratch;
 - 从零搞定一个分布式即时系统
 - 从零搞定一个分布式推荐系统
 - 从零搞定一个分布式检索技术
-
+### 分布式Q&A
+- TCP拥塞管理对拜占庭算法(PBET)的影响
 ### 关注我
 
 - 头条@[科科人神](https://www.toutiao.com/c/user/token/MS4wLjABAAAAIGeO1-kCUelF-G8GW3AvJlrEL7tiO24WHJmnX4nV1bs/)
