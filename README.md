@@ -41,6 +41,7 @@ Here is a book: Getting started with distributed systems from scratch;
 - 专用的分布式数据库
 - k8s和docker这种容器里运用的分布式技术
 - 在软件测试和性能测试中的分布式技术
+- OAauth2.0
 ### 分布式开发实战项目剖析
 - 从零开始搞定一个分布式消息队列
 - 从零搞定一个分布式秒杀服务
