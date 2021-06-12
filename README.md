@@ -78,4 +78,4 @@ Here is a book: System design and distributed protocol;
 
 ## star
 
-[![Stargazers over time](https://starchart.cc/shgopher/foolon.svg)](https://starchart.cc/shgopher/foolon)
+[![Stargazers over time](https://starchart.cc/shgopher/foo-lon.svg)](https://starchart.cc/shgopher/foo-lon)
