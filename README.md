@@ -1,11 +1,9 @@
 # foo-lon
-Here is a book: System design and distributed protocol;
-
-这是一本书: 系统设计以及分布式协议
+本教程包括了：系统设计基础等知识，分布式协议，构建分布式系统需要用到的技术。
 
 作者@[科科人神](https://github.com/shgopher)
-
-## 目录
+## 系统设计基础
+## 分布式协议 
 ### 分布式基础理论
 - 拜占庭将军问题
 - CAP理论
@@ -20,7 +18,7 @@ Here is a book: System design and distributed protocol;
 - pbet协议
 - zookeeper中的协议
 - 一致性哈希在分布式中的应用
-### 分布式具体分类
+### 分布式技术应用
 - 分布式计算
 - 分布式储存
 - 分布式通信
@@ -30,7 +28,7 @@ Here is a book: System design and distributed protocol;
 - 分布式追踪
 - 高可用的分布式
 - 分布式部署
-### 分布式实际项目
+## 构建分布式系统需要用到的技术
 - rpc协议以及实际项目
 - mq消息队列
 - kafka
@@ -42,14 +40,14 @@ Here is a book: System design and distributed protocol;
 - k8s和docker这种容器里运用的分布式技术
 - 在软件测试和性能测试中的分布式技术
 - OAauth2.0
-### 分布式开发实战项目剖析
+## 分布式开发实战项目剖析
 - 从零开始搞定一个分布式消息队列
 - 从零搞定一个分布式秒杀服务
 - 从零搞定一个分布式多仓库管理系统
 - 从零搞定一个分布式即时系统
 - 从零搞定一个分布式推荐系统
 - 从零搞定一个分布式检索技术
-### 分布式Q&A
+## 分布式Q&A
 - TCP拥塞管理对拜占庭算法(PBET)的影响
 ## 作者的计算机知识项目
 - [foolon](https://github.com/shgopher/foolon) : 系统设计以及分布式协议
